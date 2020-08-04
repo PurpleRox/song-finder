@@ -1,0 +1,12 @@
+#songs {
+  display: grid;
+  grid-template-columns: repeat(4, 200px);
+  grid-template-rows: auto;
+  column-gap: 14vw;
+  row-gap: 20vh;
+  text-align: center;
+}
+#header {
+  display: grid;
+  justify-content: center;
+}
